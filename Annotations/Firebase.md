@@ -1,0 +1,10 @@
+1. Kitkat
+2. Geladeira
+3. Doce
+4. Comida
+5. Chocolate
+6. Cinto
+7. Sexo
+8. Academia
+9. Cama
+10. Casamento
