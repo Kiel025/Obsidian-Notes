@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "a6b6065971d6414c",
+        "id": "214dea47703ed223",
         "type": "tabs",
         "children": [
           {
-            "id": "6fab74d7b2e67caa",
+            "id": "3a22132f155bcfda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annotations/Kotlin.md",
+                "file": "Annotations/S.O.L.I.D.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             },
-            "group": "c9add5a5f16657ef"
+            "group": "f29c0ef336d9cbf5"
           }
         ]
       },
       {
-        "id": "7132adcf2481bf29",
+        "id": "1cbb81dbefecf04b",
         "type": "tabs",
         "children": [
           {
-            "id": "5c1186de21db5ae9",
+            "id": "d61ba516194768cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annotations/Kotlin.md",
-                "mode": "preview",
+                "file": "Annotations/S.O.L.I.D.md",
+                "mode": "source",
                 "source": false
               }
             },
-            "group": "c9add5a5f16657ef"
+            "group": "f29c0ef336d9cbf5"
           }
         ]
       }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "62506508c473f619",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annotations/Kotlin.md",
+                "file": "Annotations/S.O.L.I.D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annotations/Kotlin.md",
+                "file": "Annotations/S.O.L.I.D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annotations/Kotlin.md"
+                "file": "Annotations/S.O.L.I.D.md"
               }
             }
           }
@@ -167,10 +166,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6fab74d7b2e67caa",
+  "active": "3a22132f155bcfda",
   "lastOpenFiles": [
-    "Sem título/Anotations.md",
+    "Pasted image 20240326103644.png",
+    "Annotations/S.O.L.I.D.md",
     "Annotations/Kotlin.md",
+    "Annotations/Algoritmos.md",
+    "Sem título.md",
+    "Sem título 1.md",
+    "Teste.md",
+    "Tasks.md",
+    "[].md",
+    "Rotina.md",
+    "Aprender a usar o kanban.md",
+    "Sem título/Anotations.md",
     "Projects/Werewolf better/Start.md",
     "Sem título",
     "Faculdade/Banco de dados.md",
@@ -178,11 +187,7 @@
     "Projects",
     "Annotations/Firebase.md",
     "Faculdade",
-    "Tasks.md",
-    "Rotina.md",
-    "Aprender a usar o kanban.md",
     "Annotations/Fisics.md",
-    "Annotations",
-    "Teste.md"
+    "Annotations"
   ]
 }
